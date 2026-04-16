@@ -62,6 +62,8 @@ This canvas illustrates the strategic alignment between the platform’s feature
 
 ### 5.1. Navigation Flow
 
+![Value Proposition Canvas](./Docs/AppMap.jpg)
+
 ## 6. Skeleton
 
 ### 6.1. Low-Fi Wireframes
