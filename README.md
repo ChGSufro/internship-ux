@@ -41,6 +41,10 @@ Administrative fragmentation and the lack of a centralized channel for internshi
 
 ### 3.1. Value Proposition Canvas
 
+This canvas illustrates the strategic alignment between the platform’s features and the actual needs of the academic community. By identifying the heavy administrative burden and information scattering as primary pain points, the solution focuses on centralizing workflows through automated time logging and unified document management. The value lies in transforming a fragmented, email-dependent process into a transparent, real-time ecosystem that ensures data integrity and reduces the operational friction for students, supervisors, and university coordinators alike.
+
+![Value Proposition Canvas](./Docs/Value-Proposition-Canvas.png)
+
 ### 3.2. UIX Persona
 
 ### 3.3. Benchmarking
