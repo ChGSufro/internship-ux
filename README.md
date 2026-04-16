@@ -30,12 +30,12 @@ Administrative fragmentation and the lack of a centralized channel for internshi
 
 ### 1.2. The Solution
 
+## 2. Team
+
 - Arturo Avalos
 - Benjamin Fernandez
 - Christian Gajardo
 - Maximiliano Sepulveda 
-
-## 2. Team
 
 ## 3. Strategy
 
