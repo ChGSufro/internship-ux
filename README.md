@@ -29,7 +29,12 @@ UX design repository for a centralized internship management platform, focusing 
 Administrative fragmentation and the lack of a centralized channel for internship monitoring force students and supervisors to navigate multiple platforms and emails. This dispersion creates a high administrative workload, a loss of traceability in report submissions, and delays in hour validation, turning an academic process into a bureaucratic bottleneck that hinders direct communication and the real-time fulfillment of evaluative milestones.
 
 ### 1.2. The Solution
+A centralized "matchmaking" platform designed exclusively for Civil Computer Engineering students at the Universidad de La Frontera (UFRO). The platform streamlines the connection between students looking for internships and companies offering positions, all overseen by a University Administrator.
 
+- Smart Matchmaking: An interface inspired by modern discovery apps that connects student profiles (skills/interests) with available internship offers.
+- Centralized Workflow: Handles everything from the initial "match" to document signing, weekly progress reports, and final evaluations.
+- Three-Way Dashboard: Dedicated flows for Students, Company Supervisors, and the UFRO Internship Director.
+  
 ## 2. Team
 
 - Arturo Avalos
