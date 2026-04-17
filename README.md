@@ -52,6 +52,24 @@ This canvas illustrates the strategic alignment between the platform’s feature
 
 ### 3.2. UIX Persona
 
+This tool allowed us to build detailed profiles of the key stakeholders interacting with the platform, taking into account aspects such as:
+
+ - Demographic data: Age, role (student, supervisor, or coordinator), and location.
+
+ - Goals: What they hope to achieve, such as securing high-impact internships, centralizing student traceability, or providing efficient technical mentoring.
+
+ - Frustrations: Current problems like lack of transparency in job postings, job "ghosting," manual bureaucracy, and administrative chaos.
+
+ - Needs and motivations: The search for a solution that automates validations, provides real-time reporting, and simplifies the institutional agreement process.
+
+<img width="1345" height="754" alt="image" src="https://github.com/user-attachments/assets/955114dd-67b4-4929-86a8-8b9562febcc9" />
+
+<img width="1342" height="752" alt="image" src="https://github.com/user-attachments/assets/90c24fd3-be2b-4a5e-a8b2-b8ecb7b96117" />
+
+<img width="1344" height="749" alt="image" src="https://github.com/user-attachments/assets/93ad6f94-8fee-4db9-b6d2-dc30990c0db8" />
+
+The Persona Canvas helped us clearly represent the behaviors and expectations of our users, making it easier to design an experience that directly responds to the need for professionalizing and streamlining the internship ecosystem.
+
 ### 3.3. Benchmarking
 
 ## 4. Scope
