@@ -80,7 +80,8 @@ For this purpose, we selected LinkedIn, Indeed, and Glassdoor as reference appli
 
 The analysis was structured using the 4-action framework (Increase, Include, Reduce, Remove), which helps define how our application can improve upon existing solutions.
 
-<img width="1920" height="1080" alt="Brainstorming User Persona Minimalista Azul" src="https://github.com/user-attachments/assets/28d1784f-535a-44d5-ad27-ccd56135cf4a" />
+<img width="1920" height="1080" alt="Brainstorming User Persona Minimalista Azul (1)" src="https://github.com/user-attachments/assets/3d157ae3-791a-4bd4-9ef4-88497f7b070d" />
+
 
 
 ## 4. Scope
