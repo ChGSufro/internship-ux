@@ -72,6 +72,16 @@ The Persona Canvas helped us clearly represent the behaviors and expectations of
 
 ### 3.3. Benchmarking
 
+In order to design a solution that effectively meets the needs of both students and companies, a benchmarking process was conducted. This analysis focused on studying existing platforms related to job searching, networking, and recruitment workflows.
+
+The goal was to identify strengths, weaknesses, and opportunities for improvement, allowing us to build a more complete and differentiated platform.
+
+For this purpose, we selected LinkedIn, Indeed, and Glassdoor as reference applications, since they represent different approaches to job searching, professional networking, and recruitment processes.
+
+The analysis was structured using the 4-action framework (Increase, Include, Reduce, Remove), which helps define how our application can improve upon existing solutions.
+
+![Uploading Brainstorming User Persona Minimalista Azul.png…]()
+
 ## 4. Scope
 
 ### 4.1. Customer Journey Map
