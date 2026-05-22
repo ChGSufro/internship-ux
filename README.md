@@ -66,7 +66,7 @@ This tool allowed us to build detailed profiles of the key stakeholders interact
 
 <img width="1342" height="752" alt="image" src="https://github.com/user-attachments/assets/90c24fd3-be2b-4a5e-a8b2-b8ecb7b96117" />
 
-<img width="1124" height="628" alt="image" src="https://github.com/user-attachments/assets/3055a155-c84e-495e-a7b2-8dd22e05af78" />
+<img width="1155" height="644" alt="Diego beñaldo" src="https://github.com/user-attachments/assets/a069fb1e-5eff-4a09-9b39-d40a3bdfca6a" />
 
 The Persona Canvas helped us clearly represent the behaviors and expectations of our users, making it easier to design an experience that directly responds to the need for professionalizing and streamlining the internship ecosystem.
 
