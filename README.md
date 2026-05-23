@@ -100,6 +100,25 @@ The navigation architecture is designed as a role-based ecosystem, ensuring a st
 
 ### 6.1. Low-Fi Wireframes
 
+The wireframes are focused on 3 different user roles, who share emails and collaborate when starting, advancing, and finalizing an internship:
+
+#### 1. Intern (Student)
+* View the general status of all their internships.
+* View internship details and history tracking.
+* Browse internship offers to apply, or register an external internship.
+
+#### 2. Academic Coordinator
+* Authorize internships.
+* View detailed information about students currently enrolled in internships.
+* Evaluate completed internships.
+
+#### 3. Supervisors
+* Post internship opportunities for students.
+* Track the progress and status of their interns.
+* Evaluate at the end of the internship and close the cycle.
+
+All Low-Fi Wireframes can be seen here: [Figma](https://www.figma.com/design/xn8Vwx0Js6ZoTdfAgoNmRJ/Wireframes?node-id=0-1&p=f&t=0ggaOzU6UwhOb6P5-0)
+
 ## 7. Surface
 
 ### 7.1. Interface Evolution
