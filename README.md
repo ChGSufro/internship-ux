@@ -107,6 +107,11 @@ The wireframes are focused on 3 different user roles, who share emails and colla
 * View internship details and history tracking.
 * Browse internship offers to apply, or register an external internship.
 
+![My Interships](./Docs/Low-Fi/Mis-Practicas.png) 
+
+![My Interships](./Docs/Low-Fi/Mis-Practicas.png)
+
+
 #### 2. Academic Coordinator
 * Authorize internships.
 * View detailed information about students currently enrolled in internships.
