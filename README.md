@@ -109,7 +109,7 @@ The wireframes are focused on 3 different user roles, who share emails and colla
 
 ![My Interships](./Docs/Low-Fi/Mis-Practicas.png) 
 
-![My Interships](./Docs/Low-Fi/Mis-Practicas.png)
+![My Interships](./Docs/Low-Fi/Oferta-Practicas.png)
 
 
 #### 2. Academic Coordinator
