@@ -69,33 +69,44 @@ The Persona Canvas helped us clearly represent the behaviors and expectations of
 
 ### 3.3. Benchmarking
 
-The current management process relies on three fragmented tools: Google Forms, which collects data across five disconnected stages (forcing users to constantly repeat information in generic formats); Gmail, used as the main communication channel where links and documents get lost in cluttered inboxes, causing uncertainty and delays; and Looker Studio, a static visual dashboard exclusive to the coordinators, which acts like a "black box" leaving the student completely in the dark about their progress and doesn't allow managing or approving requests directly on the screen.
+The current university management process relies on three disconnected tools. **Google Forms** collects data across five isolated stages, forcing users to constantly repeat the exact same information in generic formats. **Gmail** functions as the main communication channel, where crucial links and documents get lost in cluttered inboxes, causing severe uncertainty and delays. Finally, **Looker Studio** acts like a "black box"—it is a static visual dashboard exclusive to coordinators that leaves the student completely in the dark regarding their progress and lacks any functionality to manage or approve requests directly on screen.
 
 ![Fica](./Docs/Benchmark/Apps/fica-ufro-interships.png)
 
 ![Fica-i](./Docs/Benchmark/Apps/fica-ufro-intership.png)
 
-For our comparative analysis, we evaluated two major benchmarks used in the university environment: Reqlut and GoSprout. On one hand, Reqlut, which is widely used in Chilean universities, stands out for letting students create their profiles and apply directly, but it completely overlooks tracking the internship once it begins. On the other hand, the international application GoSprout is excellent for tracking hours and showing milestone progress step-by-step with visual indicators, but it lacks a built-in job search engine. Intertrack bridges this gap by combining the best of both worlds into a single mobile application: quick profile-based applications and real-time progress monitoring.
+On the other hand, the **FICA Web** (fica.ufro.cl) acts as a public job board. Although in practice it is not the exclusive or most used platform for students to find an internship, it remains the official channel and follows the faculty's most standardized operating model. Its main drawback is that it mixes job offers from all engineering fields, and attempting to apply redirects the user to external forms or emails, breaking the workflow. However, its baseline structure is an excellent data source and the perfect foundation to clean up, improve, and integrate as a built-in search engine 100% focused on the IT sector.
+
+To understand how to solve this fragmentation, we evaluated two major benchmarks utilized in the university and professional environment: **Reqlut** and **GoSprout**.
 
 ![reqlut](./Docs/Benchmark/Apps/reqlut-interships.png) | ![reqluts](./Docs/Benchmark/Apps/reqlut-intership.png) | ![reqlut](./Docs/Benchmark/Apps/gosprout-home.png)
 
-Meanwhile, the FICA Web (fica.ufro.cl) acts as a public job board. Although in practice it's not the exclusive or most used option for students to find an internship, it is the official channel and follows the faculty's most standardized operating model. Its main drawback is that it mixes job offers from all engineering fields, and when you try to apply, it redirects you to external emails or forms, breaking the workflow. However, its structure is an excellent data source and the perfect base model that we should take, clean up, and improve to integrate it as a search engine 100% focused on the IT sector.
+* **Reqlut:** Widely adopted by Chilean universities, it stands out for providing an excellent user experience by allowing students to build modular profiles and apply to job openings directly with a single click. However, it completely overlooks the follow-up and tracking of the internship once the work placement actually begins.
+* **GoSprout:** This international application excels at hour tracking and milestone monitoring step-by-step through clear visual indicators (such as radial charts and status labels), but it lacks an integrated job search engine or placement matching.
+
+**Intertrack** bridges this gap by combining the best of both worlds into a single mobile application: quick profile-based applications and real-time progress monitoring.
+
+Based on the diagnostic of the current tools and the analyzed benchmarks, we defined our user-centered design strategy using four action pillars:
 
 ![Benchmark](./Docs/Benchmark/benchmark.png)
 
-To improve what is already in use, we want to Increase the features focused solely on IT. Since the current forms and the university website are for all majors, the idea is to add fields to detail what programming languages or technologies will be used in the internship. We also want to add filters to make the job offers more precise, allowing the student to apply with a single click using their saved profile, instead of filling everything out from scratch.
+#### Increase
+We aim to increase features focused exclusively on the IT sector. Since current university forms and websites target all engineering majors, we will add specific fields to detail the programming languages, tech stacks, and frameworks that will be used during the internship. We will also increase search precision through advanced technical filters, allowing students to apply with a single click using their saved profile.
 
 ![Fica-f](./Docs/Benchmark/Apps/fica-ufro-form.png)
 
-We also need to Reduce repetitive paperwork and delays. Currently, the student, their boss, and the professor have to type their name, ID (RUT), and email in five different forms; the goal is to cut down that work. Additionally, we will seek to summarize internship offers that currently have overly long descriptions and lower the waiting times caused when the whole process depends on someone manually checking and replying to an email.
+#### Reduce
+It is critical to reduce repetitive paperwork and administrative delays. Currently, the student, the company supervisor, and the coordinator must manually type their names, National ID (RUT), and emails across five different forms; Intertrack will automate data persistence. Additionally, we will reduce overly long, unstructured job descriptions through standardized templates and minimize the waiting times caused by the process depending on manual email replies.
+
+#### Include
+We will include key features currently missing from the UFRO ecosystem to eliminate uncertainty. Instead of a Looker Studio dashboard that only coordinators can access, we will include an interactive, visual progress bar so students know exactly who has their paperwork and what step is missing. Furthermore, we will integrate a native evaluation module so both supervisors and students can submit grades directly within the app without waiting for external links via email.
 
 ![Fica-i](./Docs/Benchmark/Apps/looker-ev.png)
 
 ![Fica-i](./Docs/Benchmark/Apps/looker-status.png)
 
-As for what is missing today, we will Include features that make the process much clearer. Instead of having a dashboard of charts that only coordinators can look at, we will add a visual progress bar so the student knows step-by-step who needs to review their paperwork and what is missing. Along with that, we will integrate evaluations directly into the platform, so both the student and the company boss can submit their grades right there, without having to wait for a link to arrive via email.
-
-Finally, the goal is to Remove the things that only confuse and slow people down. This means filtering out the job offers from other engineering fields that are useless to IT students. We also want to put an end to that feeling of sending a document and not knowing if someone read it, by replacing emails with automatic notifications. In short, the main idea is to stop using four separate apps so that the student, the university, and the company can do everything in a single place.
+#### Eliminate
+Finally, we will eliminate elements that confuse and slow down users. This means completely filtering out job offers from other engineering fields that provide no value to computer science students. We will also eliminate the lack of feedback when submitting documents by replacing traditional email communication with automated in-app notifications. In short, we eliminate the need for four separate platforms so that all three key roles can seamlessly interact in one centralized workspace.
 
 
 ## 4. Scope
