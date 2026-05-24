@@ -75,6 +75,10 @@ The current management process relies on three fragmented tools: Google Forms, w
 
 ![Fica-i](./Docs/Benchmark/Apps/fica-ufro-intership.png)
 
+For our comparative analysis, we evaluated two major benchmarks used in the university environment: Reqlut and GoSprout. On one hand, Reqlut, which is widely used in Chilean universities, stands out for letting students create their profiles and apply directly, but it completely overlooks tracking the internship once it begins. On the other hand, the international application GoSprout is excellent for tracking hours and showing milestone progress step-by-step with visual indicators, but it lacks a built-in job search engine. Intertrack bridges this gap by combining the best of both worlds into a single mobile application: quick profile-based applications and real-time progress monitoring.
+
+![reqlut](./Docs/Benchmark/Apps/reqlut-interships.png) | ![reqluts](./Docs/Benchmark/Apps/reqlut-intership.png) | ![reqlut](./Docs/Benchmark/Apps/gosprout-home.png)
+
 Meanwhile, the FICA Web (fica.ufro.cl) acts as a public job board. Although in practice it's not the exclusive or most used option for students to find an internship, it is the official channel and follows the faculty's most standardized operating model. Its main drawback is that it mixes job offers from all engineering fields, and when you try to apply, it redirects you to external emails or forms, breaking the workflow. However, its structure is an excellent data source and the perfect base model that we should take, clean up, and improve to integrate it as a search engine 100% focused on the IT sector.
 
 ![Benchmark](./Docs/Benchmark/benchmark.png)
