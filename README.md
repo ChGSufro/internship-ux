@@ -127,10 +127,14 @@ The wireframes are focused on 3 different user roles, who share emails and colla
 * View detailed information about students currently enrolled in internships.
 * Evaluate completed internships.
 
+![coordinators](./Docs/Low-Fi/coordinator.png)
+
 #### 3. Supervisors
 * Post internship opportunities for students.
 * Track the progress and status of their interns.
 * Evaluate at the end of the internship and close the cycle.
+
+![supervisor](./Docs/Low-Fi/supervisor.png)
 
 All Low-Fi Wireframes can be seen here: [Figma](https://www.figma.com/design/xn8Vwx0Js6ZoTdfAgoNmRJ/Wireframes?node-id=0-1&p=f&t=0ggaOzU6UwhOb6P5-0)
 
