@@ -72,16 +72,19 @@ The Persona Canvas helped us clearly represent the behaviors and expectations of
 
 ### 3.3. Benchmarking
 
-In order to design a solution that effectively meets the needs of both students and companies, a benchmarking process was conducted. This analysis focused on studying existing platforms related to job searching, networking, and recruitment workflows.
+The current management process relies on three fragmented tools: Google Forms, which collects data across five disconnected stages (forcing users to constantly repeat information in generic formats); Gmail, used as the main communication channel where links and documents get lost in cluttered inboxes, causing uncertainty and delays; and Looker Studio, a static visual dashboard exclusive to the coordinators, which acts like a "black box" leaving the student completely in the dark about their progress and doesn't allow managing or approving requests directly on the screen.
 
-The goal was to identify strengths, weaknesses, and opportunities for improvement, allowing us to build a more complete and differentiated platform.
-
-For this purpose, we selected LinkedIn, Indeed, and Glassdoor as reference applications, since they represent different approaches to job searching, professional networking, and recruitment processes.
-
-The analysis was structured using the 4-action framework (Increase, Include, Reduce, Remove), which helps define how our application can improve upon existing solutions.
+Meanwhile, the FICA Web (fica.ufro.cl) acts as a public job board. Although in practice it's not the exclusive or most used option for students to find an internship, it is the official channel and follows the faculty's most standardized operating model. Its main drawback is that it mixes job offers from all engineering fields, and when you try to apply, it redirects you to external emails or forms, breaking the workflow. However, its structure is an excellent data source and the perfect base model that we should take, clean up, and improve to integrate it as a search engine 100% focused on the IT sector.
 
 <img width="1920" height="1080" alt="Brainstorming User Persona Minimalista Azul (1)" src="https://github.com/user-attachments/assets/3d157ae3-791a-4bd4-9ef4-88497f7b070d" />
 
+To improve what is already in use, we want to Increase the features focused solely on IT. Since the current forms and the university website are for all majors, the idea is to add fields to detail what programming languages or technologies will be used in the internship. We also want to add filters to make the job offers more precise, allowing the student to apply with a single click using their saved profile, instead of filling everything out from scratch.
+
+We also need to Reduce repetitive paperwork and delays. Currently, the student, their boss, and the professor have to type their name, ID (RUT), and email in five different forms; the goal is to cut down that work. Additionally, we will seek to summarize internship offers that currently have overly long descriptions and lower the waiting times caused when the whole process depends on someone manually checking and replying to an email.
+
+As for what is missing today, we will Include features that make the process much clearer. Instead of having a dashboard of charts that only coordinators can look at, we will add a visual progress bar so the student knows step-by-step who needs to review their paperwork and what is missing. Along with that, we will integrate evaluations directly into the platform, so both the student and the company boss can submit their grades right there, without having to wait for a link to arrive via email.
+
+Finally, the goal is to Remove the things that only confuse and slow people down. This means filtering out the job offers from other engineering fields that are useless to IT students. We also want to put an end to that feeling of sending a document and not knowing if someone read it, by replacing emails with automatic notifications. In short, the main idea is to stop using four separate apps so that the student, the university, and the company can do everything in a single place.
 
 
 ## 4. Scope
