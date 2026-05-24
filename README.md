@@ -29,11 +29,8 @@ UX design repository for a centralized internship management platform, focusing 
 Administrative fragmentation and the lack of a centralized channel for internship monitoring force students and supervisors to navigate multiple platforms and emails. This dispersion creates a high administrative workload, a loss of traceability in report submissions, and delays in hour validation, turning an academic process into a bureaucratic bottleneck that hinders direct communication and the real-time fulfillment of evaluative milestones.
 
 ### 1.2. The Solution
-A centralized "matchmaking" platform designed exclusively for Civil Computer Engineering students at the Universidad de La Frontera (UFRO). The platform streamlines the connection between students looking for internships and companies offering positions, all overseen by a University Administrator.
 
-- Smart Matchmaking: An interface inspired by modern discovery apps that connects student profiles (skills/interests) with available internship offers.
-- Centralized Workflow: Handles everything from the initial "match" to document signing, weekly progress reports, and final evaluations.
-- Three-Way Dashboard: Dedicated flows for Students, Company Supervisors, and the UFRO Internship Director.
+The solution is a centralized mobile app designed exclusively for Civil Computer Engineering students at the Universidad de La Frontera (UFRO), which eliminates administrative fragmentation by unifying the entire internship lifecycle into a single, 100% trackable digital environment. To directly address the loss of traceability and bureaucratic bottlenecks, the app integrates a workflow managed through a synchronized dashboard for the three key roles: Students, Company Supervisors, and the University Coordinator. This unified channel not only streamlines the initial connection (or match) between student profiles and IT job offers, but also guarantees real-time visibility over document signing, automatic hour validation, and the fulfillment of evaluative milestones, ensuring transparent and direct communication from start to finish.
   
 ## 2. Team
 
@@ -74,13 +71,23 @@ The Persona Canvas helped us clearly represent the behaviors and expectations of
 
 The current management process relies on three fragmented tools: Google Forms, which collects data across five disconnected stages (forcing users to constantly repeat information in generic formats); Gmail, used as the main communication channel where links and documents get lost in cluttered inboxes, causing uncertainty and delays; and Looker Studio, a static visual dashboard exclusive to the coordinators, which acts like a "black box" leaving the student completely in the dark about their progress and doesn't allow managing or approving requests directly on the screen.
 
+![Fica](./Docs/Benchmark/Apps/fica-ufro-interships.png)
+
+![Fica-i](./Docs/Benchmark/Apps/fica-ufro-intership.png)
+
 Meanwhile, the FICA Web (fica.ufro.cl) acts as a public job board. Although in practice it's not the exclusive or most used option for students to find an internship, it is the official channel and follows the faculty's most standardized operating model. Its main drawback is that it mixes job offers from all engineering fields, and when you try to apply, it redirects you to external emails or forms, breaking the workflow. However, its structure is an excellent data source and the perfect base model that we should take, clean up, and improve to integrate it as a search engine 100% focused on the IT sector.
 
-<img width="1920" height="1080" alt="Brainstorming User Persona Minimalista Azul (1)" src="https://github.com/user-attachments/assets/3d157ae3-791a-4bd4-9ef4-88497f7b070d" />
+![Benchmark](./Docs/Benchmark/benchmark.png)
 
 To improve what is already in use, we want to Increase the features focused solely on IT. Since the current forms and the university website are for all majors, the idea is to add fields to detail what programming languages or technologies will be used in the internship. We also want to add filters to make the job offers more precise, allowing the student to apply with a single click using their saved profile, instead of filling everything out from scratch.
 
+![Fica-f](./Docs/Benchmark/Apps/fica-ufro-form.png)
+
 We also need to Reduce repetitive paperwork and delays. Currently, the student, their boss, and the professor have to type their name, ID (RUT), and email in five different forms; the goal is to cut down that work. Additionally, we will seek to summarize internship offers that currently have overly long descriptions and lower the waiting times caused when the whole process depends on someone manually checking and replying to an email.
+
+![Fica-i](./Docs/Benchmark/Apps/looker-ev.png)
+
+![Fica-i](./Docs/Benchmark/Apps/looker-status.png)
 
 As for what is missing today, we will Include features that make the process much clearer. Instead of having a dashboard of charts that only coordinators can look at, we will add a visual progress bar so the student knows step-by-step who needs to review their paperwork and what is missing. Along with that, we will integrate evaluations directly into the platform, so both the student and the company boss can submit their grades right there, without having to wait for a link to arrive via email.
 
