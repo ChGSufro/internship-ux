@@ -104,7 +104,7 @@ Finally, the goal is to Remove the things that only confuse and slow people down
 
 The navigation architecture is designed as a role-based ecosystem, ensuring a streamlined experience for each user type. Upon authentication, the system branches into three distinct dashboards: Student, Company, and Coordinator, each housing its specific operational tools—from time tracking and rubrics to legal authorizations. This structure minimizes cognitive load by isolating role-specific tasks, while a global Settings module provides unified access to profile and notification management, ensuring a cohesive and efficient user journey across the entire internship lifecycle.
 
-![Value Proposition Canvas](./Docs/AppMap.jpg)
+![Value Proposition Canvas](./Docs/AppMap-2.png)
 
 ## 6. Skeleton
 
