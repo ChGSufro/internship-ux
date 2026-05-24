@@ -108,6 +108,30 @@ We will include key features currently missing from the UFRO ecosystem to elimin
 #### Eliminate
 Finally, we will eliminate elements that confuse and slow down users. This means completely filtering out job offers from other engineering fields that provide no value to computer science students. We will also eliminate the lack of feedback when submitting documents by replacing traditional email communication with automated in-app notifications. In short, we eliminate the need for four separate platforms so that all three key roles can seamlessly interact in one centralized workspace.
 
+Synthetic Comparative Table
+
+The following matrix consolidates the mandatory baseline dimensions alongside domain-specific criteria tailored to our IT internship scope:
+
+| Evaluation Dimension | Current UFRO Process (Forms + Gmail) | Competitor A: Reqlut | Competitor B: GoSprout | Our Proposed Solution: **Intertrack** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Target Audience** | UFRO Engineering students, supervisors, and coordinators. | Broad university student base and multi-industry recruiters. | Vocational trainees, program managers, and field supervisors. | **Computer Science & IT students, tech companies, and academic coordinators.** |
+| **Main Value Proposition** | Manual validation of academic graduation requirements. | Multi-purpose job-board and applicant matching portal. | Administrative compliance and on-the-job hours auditing. | **End-to-end mobile automation, technical matching, and real-time step monitoring.** |
+| **Onboarding Flow** | Disconnected. Starts manually via external Google Forms links. | Multi-step personal resume builder with manual text inputs. | Private registration via institutional invitation link. | **Instant integration leveraging pre-existing UFRO intranet credentials.** |
+| **Primary UI Navigation** | No layout pattern. Fragmented web-links and emails. | Bottom tabs paired with classic hierarchical text list details. | Bottom navbar combined with a central persistent FAB. | **Intuitive bottom navigation combined with a linear step-by-step milestone timeline.** |
+| **Domain Dimension 1: Technical Stack/IT Filters** | **None.** Job board mixes all engineering fields randomly. | **None.** Uses generic keyword search bars with no tech filter fields. | **None.** Focuses purely on general vocational hour-tracking metrics. | **Advanced tags filtering by programming languages, frameworks, and roles.** |
+| **Domain Dimension 2: 3-Way Sync Compliance** | **Fragmented.** Done manually by typing data into 5 separate forms. | **Partial.** Connects application but lacks post-hire tools. |  **Full.** Real-time automated verification loops. | **Centralized. In-app document synchronization for Student, Boss, and University.** |
+
+---
+
+Findings and Design Decisions
+
+Analyzing the domain standards revealed critical design patterns that **Intertrack** will adopt or systematically redefine:
+
+1. **Adoption of Collapsible Modular Profiles (from Reqlut):** We will implement a structured, persistent profile framework to eliminate data duplication. Students input personal and academic details once, which then automatically populates future validation steps.
+2. **Adoption of Radial Progress Indicators (from GoSprout):** To dismantle the current "black box" experience of Looker Studio, we are adopting explicit status tracking labels and visual indicators. This ensures students get clear feedback on exactly who is reviewing their paperwork.
+3. **Rejection of Complex Corporate Dashboard Data (from GoSprout):** We are purposefully omitting complex financial graphs or multi-tiered corporate apprentice wage trackers to maintain a minimalist, accessible interface centered around UFRO's academic requirements.
+
+**Intertrack** effectively bridges this market gap by merging the search and matching capabilities of **Reqlut** with the visual tracking and administrative feedback loop of **GoSprout** into a single mobile environment.
 
 ## 4. Scope
 
