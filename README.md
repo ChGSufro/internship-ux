@@ -240,3 +240,42 @@ Reason for Changes
 Coordinators identified administrative overload as a major pain point. The redesign focuses on reducing manual tracking and providing a centralized management experience.
 
 ### 7.2. High Definition Interfaces
+
+#### 1. Intern (Student)
+
+<img width="1228" height="793" alt="image" src="https://github.com/user-attachments/assets/7f79cc2b-5adc-4d6d-8b4b-7b188c0317f8" />
+
+<img width="1404" height="681" alt="image" src="https://github.com/user-attachments/assets/0608ac85-d656-40a8-8a23-64d769448fbc" />
+
+<img width="1194" height="791" alt="image" src="https://github.com/user-attachments/assets/1c61ac21-6cf5-4163-907c-d62fd46ea57d" />
+
+<img width="952" height="791" alt="image" src="https://github.com/user-attachments/assets/61ba40f8-4653-46b2-8fc8-1c7e1e338645" />
+
+<img width="935" height="792" alt="image" src="https://github.com/user-attachments/assets/77fc7d07-7344-4f6f-b8fe-61d0c9b917de" />
+
+#### 2. Academic Coordinator
+
+<img width="1116" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b349f6-4478-419e-9562-46a2acddbe6c" />
+
+<img width="1135" height="789" alt="image" src="https://github.com/user-attachments/assets/cbcbd374-a1b9-4040-9a27-e32b0be78758" />
+
+
+#### 3. Supervisors
+
+<img width="1404" height="740" alt="image" src="https://github.com/user-attachments/assets/3708296f-ce6a-46e4-872a-802387bca660" />
+
+<img width="1145" height="791" alt="image" src="https://github.com/user-attachments/assets/01d0a670-5a83-41f8-855f-880a5cd913b6" />
+
+<img width="1187" height="790" alt="image" src="https://github.com/user-attachments/assets/c6ecf640-3b59-48ad-954f-450b30912926" />
+
+<img width="782" height="791" alt="image" src="https://github.com/user-attachments/assets/3cf18e45-c94e-46bc-8c60-2bbfee1fd56f" />
+
+
+#### 4. Login
+
+<img width="1082" height="792" alt="image" src="https://github.com/user-attachments/assets/36001c91-70c4-4ef8-a7e0-bb04277b6baf" />
+
+<img width="1403" height="764" alt="image" src="https://github.com/user-attachments/assets/6e850d73-81ac-45f2-b870-afbea7be5184" />
+
+<img width="1089" height="788" alt="image" src="https://github.com/user-attachments/assets/a359e876-140e-4f89-8575-469060f0b9d7" />
+
