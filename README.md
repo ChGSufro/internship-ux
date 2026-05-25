@@ -181,6 +181,62 @@ All Low-Fi Wireframes can be seen here: [Figma](https://www.figma.com/design/xn8
 
 ### 7.1. Interface Evolution
 
-### 7.2. Results of the Heuristic Evaluation
+Login Screen
 
-### 7.3. High Definition Interfaces
+Low-Fidelity Version
+The initial wireframe focused on providing a simple authentication process with basic input fields and navigation options.
+
+High-Fidelity Improvements
+
+- Added institutional branding and visual identity to increase trust and recognition.
+- Improved hierarchy through typography, spacing, and color usage.
+- Added clear role selection (Student, Company, Coordinator) to simplify access to personalized functionalities.
+- Enhanced button visibility and accessibility.
+
+Reason for Changes
+The improvements were made to reduce cognitive load, improve first impressions, and provide a clearer onboarding experience for different user profiles.
+
+Student Dashboard
+
+Low-Fidelity Version
+The first design presented internship information using simple blocks and navigation menus.
+
+High-Fidelity Improvements
+
+- Added visual progress tracking for internship status.
+- Introduced cards and icons to improve information scanning.
+- Organized tasks according to priority and deadlines.
+- Improved navigation consistency with the bottom navigation bar.
+
+Reason for Changes
+Research revealed that students mainly wanted to know the current status of their internship process quickly. The redesign prioritizes visibility of system status and reduces the time required to find relevant information.
+
+Company Dashboard
+
+Low-Fidelity Version
+The initial design contained a simple list of interns and pending activities.
+
+High-Fidelity Improvements
+
+- Added profile cards for interns.
+- Included progress indicators and evaluation shortcuts.
+- Improved organization of internship documentation.
+
+Reason for Changes
+Company supervisors need quick access to intern information and evaluation tools. The redesign minimizes navigation steps and centralizes important actions.
+
+Coordinator Dashboard
+
+Low-Fidelity Version
+The coordinator interface displayed internship requests and documentation in separate sections.
+
+High-Fidelity Improvements
+
+- Added centralized monitoring panels.
+- Included filters and status indicators.
+- Improved visualization of pending approvals and documents.
+
+Reason for Changes
+Coordinators identified administrative overload as a major pain point. The redesign focuses on reducing manual tracking and providing a centralized management experience.
+
+### 7.2. High Definition Interfaces
