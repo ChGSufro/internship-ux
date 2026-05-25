@@ -34,10 +34,10 @@ The solution is a centralized mobile app designed exclusively for Civil Computer
   
 ## 2. Team
 
-- Arturo Avalos
-- Benjamin Fernandez
-- Christian Gajardo
-- Maximiliano Sepulveda 
+- Arturo Avalos – Project Manager: Responsible for the overall coordination and planning of the project. Ensures that deadlines are met, organizes team activities, coordinates meetings, and leads presentations. Also supervises the integration of all deliverables to maintain consistency throughout the project.
+- Benjamin Fernandez – UX Research Analyst: Responsible for conducting user research and analyzing collected information. Develops UX Personas, Customer Journey Maps, and the Value Proposition Canvas. Identifies user needs, pain points, and opportunities to improve the proposed solution.
+- Christian Gajardo – UI/UX Designer: Responsible for designing the user experience and user interface. Creates low-fidelity and high-fidelity prototypes, designs navigation flows, and ensures visual consistency across all screens. Applies usability and accessibility principles throughout the design process.
+- Maximiliano Sepulveda – Documentation and Repository Manager : Responsible for organizing and maintaining the project repository. Ensures that all documentation is complete, properly structured, and written in English. Manages deliverables, annexes, and supporting materials while maintaining quality standards and version control.
 
 ## 3. Strategy
 
