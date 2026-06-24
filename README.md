@@ -175,7 +175,7 @@ The wireframes are focused on 3 different user roles, who share emails and colla
 
 ![supervisor](./Docs/Low-Fi/supervisor.png)
 
-All Low-Fi Wireframes can be seen here: [Figma](https://www.figma.com/design/xn8Vwx0Js6ZoTdfAgoNmRJ/Wireframes?node-id=0-1&p=f&t=0ggaOzU6UwhOb6P5-0)
+All Low-Fi Wireframes can be seen here: [Figma]([https://www.figma.com/design/xn8Vwx0Js6ZoTdfAgoNmRJ/Wireframes?node-id=0-1&p=f&t=0ggaOzU6UwhOb6P5-0](https://www.figma.com/design/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=2132-2912&t=rjMESOzxybi2EGoh-1))
 
 ## 7. Surface
 
