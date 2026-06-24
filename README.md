@@ -19,6 +19,9 @@ UX design repository for a centralized internship management platform, focusing 
    - [6.2. Results of the Heuristic Evaluation](#62-results-of-the-heuristic-evaluation)
    - [6.3. High Definition Interfaces](#63-high-definition-interfaces)
    - [6.4. Accessibility Considerations](#64-accessibility-considerations)
+- [7. Additional Resources](#7-additional-resources)
+   - [7.1. Design Files](#71-design-files)
+   - [7.2. Prototype](#72-prototype)
 
 
 ## 1. Introduction
@@ -448,7 +451,13 @@ These decisions contribute to improving readability and reducing cognitive load.
 
 ---
 
+## 7. Additional Resources
+
+### 7.1. Design Files
+
 All high-fidelity frames can be found here: [Figma Design File](https://www.figma.com/design/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=0-1&t=rjMESOzxybi2EGoh-1)
+
+### 7.2. Prototype
 
 The interactive demo can be accessed here: [Figma Prototype](https://www.figma.com/proto/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=2010-1992&t=toFJ6Q1mfvBwCbwI-1&starting-point-node-id=2010%3A1992)
 
