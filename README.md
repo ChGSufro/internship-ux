@@ -461,3 +461,10 @@ All high-fidelity frames can be found here: [Figma Design File](https://www.figm
 
 The interactive demo can be accessed here: [Figma Prototype](https://www.figma.com/proto/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=2010-1992&t=toFJ6Q1mfvBwCbwI-1&starting-point-node-id=2010%3A1992)
 
+### 7.3. Elevator Pitch
+
+The elevator pitch presents a short summary of the project, its problem, and the proposed solution.
+
+Watch the video here:
+
+https://www.youtube.com/shorts/D_JbCC8lOJ4
