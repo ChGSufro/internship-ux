@@ -141,7 +141,7 @@ Analyzing the domain standards revealed critical design patterns that **Intertra
 
 ### 5.1. Navigation Flow
 
-The navigation architecture is designed as a role-based ecosystem, ensuring a streamlined experience for each user type. Upon authentication, the system branches into three distinct dashboards: Student, Company, and Coordinator, each housing its specific operational tools—from time tracking and rubrics to legal authorizations. This structure minimizes cognitive load by isolating role-specific tasks, while a global Settings module provides unified access to profile and notification management, ensuring a cohesive and efficient user journey across the entire internship lifecycle.
+The navigation architecture is designed as a role-based ecosystem, ensuring a streamlined experience for each user type. Upon authentication, the system branches into two distinct dashboards: Student and Company, each housing its specific operational tools. This structure minimizes cognitive load by isolating role specific tasks, while a global Settings module provides unified access to profile and notification management, ensuring a cohesive and efficient user journey across the entire internship lifecycle.
 
 ![Value Proposition Canvas](./Docs/AppMap-2.png)
 
