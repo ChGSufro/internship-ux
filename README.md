@@ -22,6 +22,7 @@ UX design repository for a centralized internship management platform, focusing 
 - [7. Additional Resources](#7-additional-resources)
    - [7.1. Design Files](#71-design-files)
    - [7.2. Prototype](#72-prototype)
+   - [7.3. Elevator Pitch](#73-elevator-pitch)
 
 
 ## 1. Introduction
@@ -463,8 +464,7 @@ The interactive demo can be accessed here: [Figma Prototype](https://www.figma.c
 
 ### 7.3. Elevator Pitch
 
-The elevator pitch presents a short summary of the project, its problem, and the proposed solution.
+The Elevator Pitch can be found at this YouTube link and can also be found in the github docs folder.
 
 Watch the video here:
-
 https://www.youtube.com/shorts/D_JbCC8lOJ4
