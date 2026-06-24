@@ -239,7 +239,20 @@ High-Fidelity Improvements
 Reason for Changes
 Coordinators identified administrative overload as a major pain point. The redesign focuses on reducing manual tracking and providing a centralized management experience.
 
-### 7.2. High Definition Interfaces
+### 7.2. Results of the Heuristic Evaluation
+
+Based on the heuristic evaluation conducted by our peers, we implemented key adjustments to improve usability and consistency. We focused on resolving the most critical and feasible issues identified during the review.  
+
+Login Simplification
+We addressed the unnecessary complexity of the login screen. Instead of requiring users to manually select their role from three options on the frontend, the system now automates role routing via backend credentials, significantly simplifying the UI frame.  
+
+Cognitive Load Reduction
+Evaluators noted that several tabs were overloaded with information, buttons, images, and text. We addressed this by reducing visual clutter and simplifying the information displayed to decrease the user's cognitive load.  
+
+Consistency and Standardization
+We corrected minor visual inconsistencies across the application. This included standardizing button shapes and the top bar design, as well as clearly differentiating between buttons and tags. Furthermore, we adjusted the skill tags to prevent typing errors and maintain standard filtering.  
+
+### 7.3. High Definition Interfaces
 
 #### 1. Intern (Student)
 
@@ -278,4 +291,8 @@ Coordinators identified administrative overload as a major pain point. The redes
 <img width="1403" height="764" alt="image" src="https://github.com/user-attachments/assets/6e850d73-81ac-45f2-b870-afbea7be5184" />
 
 <img width="1089" height="788" alt="image" src="https://github.com/user-attachments/assets/a359e876-140e-4f89-8575-469060f0b9d7" />
+
+All high-fidelity frames can be found here: [Figma Design File](https://www.figma.com/design/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=0-1&t=rjMESOzxybi2EGoh-1)
+
+The interactive demo can be accessed here: [Figma Prototype](https://www.figma.com/proto/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=2010-1992&t=toFJ6Q1mfvBwCbwI-1&starting-point-node-id=2010%3A1992)
 
