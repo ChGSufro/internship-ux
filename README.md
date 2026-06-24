@@ -17,7 +17,8 @@ UX design repository for a centralized internship management platform, focusing 
 - [6. Surface](#6-surface)
    - [6.1. Interface Evolution](#61-interface-evolution)
    - [6.2. Results of the Heuristic Evaluation](#62-results-of-the-heuristic-evaluation)
-   - [6.3. High Definition Interfaces](#63-high-definition-interfaces)
+   - [6.3. Accessibility Considerations](#63-accessibility-considerations)
+   - [6.4. High Definition Interfaces](#64-high-definition-interfaces)
 
 
 ## 1. Introduction
@@ -363,7 +364,51 @@ The design prioritizes visibility of system status and quick access to the most 
 #### Documents
 <img width="285" height="606" alt="image" src="https://github.com/user-attachments/assets/ce1cab6e-6072-426b-97f8-183e89d39ec9" />
 
-#### 1. Company
+#### 2. Company
+
+The company workflow includes:
+
+- Internship publication.
+- Applicant management.
+- Accepted interns.
+- Internship monitoring.
+- Performance evaluations.
+
+The interface was designed to simplify internship supervision and reduce administrative effort.
+
+#### Login company
+<img width="367" height="776" alt="image" src="https://github.com/user-attachments/assets/bb1092ae-efe2-413c-aa9a-2534819d2614" />
+
+#### Register company
+<img width="956" height="663" alt="image" src="https://github.com/user-attachments/assets/80ed2135-e1d4-447f-b7db-b1dce31be6f2" />
+
+#### My posts
+<img width="339" height="715" alt="image" src="https://github.com/user-attachments/assets/439515ac-01ba-4dbf-b575-d443adbcfb75" />
+
+#### Search for practitioners
+<img width="384" height="818" alt="image" src="https://github.com/user-attachments/assets/be125956-e6a4-40b5-a891-6e0c09101bb9" />
+
+#### My practitioners
+<img width="374" height="812" alt="image" src="https://github.com/user-attachments/assets/495c8405-d48e-479e-9ee0-97b516cd6485" />
+
+#### Accepted practitioner
+<img width="370" height="786" alt="image" src="https://github.com/user-attachments/assets/fa47db93-3893-4edd-b12c-60c52a0f3307" />
+
+#### Publish offers
+<img width="264" height="713" alt="image" src="https://github.com/user-attachments/assets/23f3ad12-1c77-4cd5-9548-d4e72c19492c" />
+
+#### Applicant details
+<img width="358" height="769" alt="image" src="https://github.com/user-attachments/assets/53c8ea1a-909f-491d-8786-b2b684d2a7d7" />
+
+#### Practitioner information
+<img width="360" height="770" alt="image" src="https://github.com/user-attachments/assets/4b1c746e-7c91-4ee8-8060-09d142df6db1" />
+
+#### Evaluate practitioner
+<img width="287" height="766" alt="image" src="https://github.com/user-attachments/assets/60126051-dbb7-4651-afda-7b346a610d77" />
+
+#### Accept practitioners
+<img width="690" height="706" alt="image" src="https://github.com/user-attachments/assets/302fa9ed-fe2e-41be-b669-e657c8975ce3" />
+
 
 
 ## 6.4. Accessibility Considerations
