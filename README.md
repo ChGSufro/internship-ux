@@ -133,21 +133,17 @@ Analyzing the domain standards revealed critical design patterns that **Intertra
 
 **Intertrack** effectively bridges this market gap by merging the search and matching capabilities of **Reqlut** with the visual tracking and administrative feedback loop of **GoSprout** into a single mobile environment.
 
-## 4. Scope
+## 4. Structure
 
-### 4.1. Customer Journey Map
-
-## 5. Structure
-
-### 5.1. Navigation Flow
+### 4.1. Navigation Flow
 
 The navigation architecture is designed as a role-based ecosystem, ensuring a streamlined experience for each user type. Upon authentication, the system branches into two distinct dashboards: Student and Company, each housing its specific operational tools. This structure minimizes cognitive load by isolating role specific tasks, while a global Settings module provides unified access to profile and notification management, ensuring a cohesive and efficient user journey across the entire internship lifecycle.
 
 ![Value Proposition Canvas](./Docs/AppMap-2.png)
 
-## 6. Skeleton
+## 5. Skeleton
 
-### 6.1. Low-Fi Wireframes
+### 5.1. Low-Fi Wireframes
 
 The wireframes are focused on 3 different user roles, who share emails and collaborate when starting, advancing, and finalizing an internship:
 
@@ -177,9 +173,9 @@ The wireframes are focused on 3 different user roles, who share emails and colla
 
 All Low-Fi Wireframes can be seen here: [Figma](https://www.figma.com/design/xn8Vwx0Js6ZoTdfAgoNmRJ/Wireframes?node-id=0-1&p=f&t=0ggaOzU6UwhOb6P5-0)
 
-## 7. Surface
+## 6. Surface
 
-### 7.1. Interface Evolution
+### 6.1. Interface Evolution
 
 Login Screen
 
