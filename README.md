@@ -17,8 +17,8 @@ UX design repository for a centralized internship management platform, focusing 
 - [6. Surface](#6-surface)
    - [6.1. Interface Evolution](#61-interface-evolution)
    - [6.2. Results of the Heuristic Evaluation](#62-results-of-the-heuristic-evaluation)
-   - [6.3. High Definition Interfaces](#64-high-definition-interfaces)
-   - [6.4. Accessibility Considerations](#63-accessibility-considerations)
+   - [6.3. High Definition Interfaces](#63-high-definition-interfaces)
+   - [6.4. Accessibility Considerations](#64-accessibility-considerations)
 
 
 ## 1. Introduction
