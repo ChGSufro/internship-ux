@@ -51,7 +51,7 @@ This canvas illustrates the strategic alignment between the platform’s feature
 
 This tool allowed us to build detailed profiles of the key stakeholders interacting with the platform, taking into account aspects such as:
 
- - Demographic data: Age, role (student, supervisor, or coordinator), and location.
+ - Demographic data: Age, role (student or supervisor), and location.
 
  - Goals: What they hope to achieve, such as securing high-impact internships, centralizing student traceability, or providing efficient technical mentoring.
 
@@ -61,7 +61,7 @@ This tool allowed us to build detailed profiles of the key stakeholders interact
 
 <img width="1345" height="754" alt="image" src="https://github.com/user-attachments/assets/955114dd-67b4-4929-86a8-8b9562febcc9" />
 
-<img width="1342" height="752" alt="image" src="https://github.com/user-attachments/assets/90c24fd3-be2b-4a5e-a8b2-b8ecb7b96117" />
+<img width="1920" height="1080" alt="Brainstorming User Persona Minimalista Azul" src="https://github.com/user-attachments/assets/896b7511-600e-41f2-ac28-dcb7fe24037f" />
 
 <img width="1155" height="644" alt="Diego beñaldo" src="https://github.com/user-attachments/assets/a069fb1e-5eff-4a09-9b39-d40a3bdfca6a" />
 
