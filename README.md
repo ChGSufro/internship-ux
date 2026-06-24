@@ -175,116 +175,233 @@ All Low-Fi Wireframes can be seen here: [Figma](https://www.figma.com/design/xn8
 
 ### 6.1. Interface Evolution
 
-Login Screen
+The final version of InterTrack was developed through several design iterations, evolving from the initial low-fidelity wireframes into a complete high-fidelity prototype. The objective of these iterations was to improve usability, simplify administrative processes, and provide a more intuitive experience for both students and company supervisors.
 
-Low-Fidelity Version
-The initial wireframe focused on providing a simple authentication process with basic input fields and navigation options.
+Throughout the design process, feedback received during presentations, internal reviews, and benchmark analysis was incorporated into the final proposal.
 
-High-Fidelity Improvements
+### Main Design Changes
 
-- Added institutional branding and visual identity to increase trust and recognition.
-- Improved hierarchy through typography, spacing, and color usage.
-- Added clear role selection (Student, Company, Coordinator) to simplify access to personalized functionalities.
-- Enhanced button visibility and accessibility.
+The transition from the initial wireframes to the final prototype introduced several improvements focused on usability and information clarity.
 
-Reason for Changes
-The improvements were made to reduce cognitive load, improve first impressions, and provide a clearer onboarding experience for different user profiles.
+| Area | Initial Design | Final Design |
+| :--- | :--- | :--- |
+| User Roles | Three-role architecture | Simplified into Student and Company workflows |
+| Internship Monitoring | Basic information display | Progress tracking and internship status visibility |
+| Job Opportunities | Simple listings | Match percentage and detailed offer information |
+| Evaluations | Basic forms | Structured evaluation workflow |
+| Internship Management | Fragmented information | Centralized internship overview |
+| Authentication | Login only | Password recovery and verification flow |
+| Interface Consistency | Independent screens | Unified design system and navigation |
 
-Student Dashboard
+---
 
-Low-Fidelity Version
-The first design presented internship information using simple blocks and navigation menus.
+### Authentication Flow Evolution
 
-High-Fidelity Improvements
+The initial design only considered a traditional login screen with too much information.
 
-- Added visual progress tracking for internship status.
-- Introduced cards and icons to improve information scanning.
-- Organized tasks according to priority and deadlines.
-- Improved navigation consistency with the bottom navigation bar.
+During subsequent iterations, the authentication process was optimized to improve:
 
-Reason for Changes
-Research revealed that students mainly wanted to know the current status of their internship process quickly. The redesign prioritizes visibility of system status and reduces the time required to find relevant information.
+- Password recovery.
+- Verification code validation.
+- Password reset flow.
+- Improved form hierarchy and visual feedback.
 
-Company Dashboard
+These changes provide a more complete onboarding and account recovery experience.
 
-Low-Fidelity Version
-The initial design contained a simple list of interns and pending activities.
+#### FINAL LOGIN STUDENT VS LOW-FI LOGIN STUDENT
 
-High-Fidelity Improvements
+<img width="737" height="615" alt="image" src="https://github.com/user-attachments/assets/90deee80-0dc4-4b5f-a021-b6051b1018ae" />
 
-- Added profile cards for interns.
-- Included progress indicators and evaluation shortcuts.
-- Improved organization of internship documentation.
+#### FINAL REGISTER COMPANY VS LOW-FI COMPANY
 
-Reason for Changes
-Company supervisors need quick access to intern information and evaluation tools. The redesign minimizes navigation steps and centralizes important actions.
+<img width="581" height="618" alt="image" src="https://github.com/user-attachments/assets/d8c9663c-2d5d-4f48-8632-98981494acce" />
 
-Coordinator Dashboard
+### Internship Tracking Evolution
 
-Low-Fidelity Version
-The coordinator interface displayed internship requests and documentation in separate sections.
+One of the main problems identified during the research was the oversaturation and mismanagement of size in the sections that students experienced when trying to understand the current state of their internship process.
 
-High-Fidelity Improvements
+To address this issue, the final design redesign:
 
-- Added centralized monitoring panels.
-- Included filters and status indicators.
-- Improved visualization of pending approvals and documents.
+- Internship progress visualization.
+- Hours tracking.
+- Validation status indicators.
+- Evaluation status indicators.
+- Historical internship records.
 
-Reason for Changes
-Coordinators identified administrative overload as a major pain point. The redesign focuses on reducing manual tracking and providing a centralized management experience.
+This information is now accessible directly from the internship dashboard.
 
-### 6.2. Results of the Heuristic Evaluation
+#### FINAL OFFERS SCREEN VS LOW-FI OFFERS SCREEN
 
-Based on the heuristic evaluation conducted by our peers, we implemented key adjustments to improve usability and consistency. We focused on resolving the most critical and feasible issues identified during the review.  
+<img width="814" height="834" alt="image" src="https://github.com/user-attachments/assets/0a910d4d-6e84-4af7-8a18-28a5e8b85054" />
 
-Login Simplification
-We addressed the unnecessary complexity of the login screen. Instead of requiring users to manually select their role from three options on the frontend, the system now automates role routing via backend credentials, significantly simplifying the UI frame.  
+### Company Management Evolution
 
-Cognitive Load Reduction
-Evaluators noted that several tabs were overloaded with information, buttons, images, and text. We addressed this by reducing visual clutter and simplifying the information displayed to decrease the user's cognitive load.  
+The company workflow underwent one of the most significant redesigns.
 
-Consistency and Standardization
-We corrected minor visual inconsistencies across the application. This included standardizing button shapes and the top bar design, as well as clearly differentiating between buttons and tags. Furthermore, we adjusted the skill tags to prevent typing errors and maintain standard filtering.  
+Originally, company interactions were distributed across several independent views.
+
+The final design centralizes:
+
+- Internship publications.
+- Applicants.
+- Accepted interns.
+- Internship monitoring.
+- Evaluations.
+
+This redesign reduces navigation effort and allows supervisors to access the most important actions from a single workflow.
+
+#### FINAL COMPANY FLOW VS LOW-FI COMPANY FLOW
+<img width="567" height="595" alt="image" src="https://github.com/user-attachments/assets/aaa6a235-00dd-422f-b47f-21c9980173c7" />
+<img width="591" height="775" alt="image" src="https://github.com/user-attachments/assets/79f11618-8416-4b0f-a7b4-8538aeb3d26c" />
+
+
+### Evaluation Process Evolution
+
+The evaluation process was refined to improve clarity and structure.
+
+The final version incorporates:
+
+- Weighted evaluation criteria.
+- Dedicated descriptions for each category.
+- Final score calculation.
+- General comments section.
+- Pending evaluation management.
+
+This structure creates a more transparent evaluation experience for both students and supervisors.
+
+#### FINAL EVAKUATION FLOW VS LOW-FI EVALUATION FLOW
+<img width="574" height="758" alt="image" src="https://github.com/user-attachments/assets/22405b92-8e6e-4002-841d-339e0dc388eb" />
+
+## 6.2. Results of the Heuristic Evaluation
+
+To validate the usability of the final prototype, a heuristic review based on Nielsen's usability principles was conducted.
+
+The objective was to identify potential usability issues and verify whether the final design effectively addressed the main problems detected during the research phase.
+
+### Evaluation Summary
+
+| Heuristic | Observation | Implemented Improvement |
+| :--- | :--- | :--- |
+| Visibility of System Status | Students had difficulty understanding internship progress. | Added progress indicators and status labels. |
+| Match Between System and Real World | Administrative processes were difficult to understand. | Internship terminology was simplified and organized. |
+| Consistency and Standards | Similar actions appeared differently across screens. | Standardized navigation, forms and cards. |
+| Recognition Rather Than Recall | Users needed to remember process stages. | Added persistent progress information and visual indicators. |
+| User Control and Freedom | Important actions required multiple steps. | Reduced navigation depth and centralized actions. |
+| Aesthetic and Minimalist Design | Some views contained excessive information. | Improved hierarchy and grouped related information. |
+
+### Main Issue #1: Internship Visibility
+
+Students lacked visibility regarding internship status, completed hours, and pending requirements.
+
+#### Solution
+
+The final design introduced progress indicators and status monitoring that provide immediate feedback regarding the internship lifecycle.
+
+### Main Issue #2: Administrative Complexity
+
+Company supervisors needed quick access to intern information and evaluations.
+
+#### Solution
+
+The redesign centralized internship management into dedicated sections for applicants, accepted interns, and evaluations.
+
+### Main Issue #3: Fragmented Information
+
+The internship process involved multiple independent screens with limited contextual information.
+
+#### Solution
+
+Information architecture was reorganized around complete workflows, reducing the need for users to switch between unrelated sections.
+
+### Heuristic Evaluation Outcome
+
+The evaluation confirmed that the redesign significantly improved:
+
+- Process transparency.
+- Navigation consistency.
+- Information discoverability.
+- Administrative efficiency.
+- Progress visibility.
+
+---
 
 ### 6.3. High Definition Interfaces
 
-#### 1. Intern (Student)
+#### 1. Student Interfaces
 
-<img width="1228" height="793" alt="image" src="https://github.com/user-attachments/assets/7f79cc2b-5adc-4d6d-8b4b-7b188c0317f8" />
+The student workflow includes:
 
-<img width="1404" height="681" alt="image" src="https://github.com/user-attachments/assets/0608ac85-d656-40a8-8a23-64d769448fbc" />
+- Internship opportunities.
+- Opportunity details.
+- Internship tracking.
+- Progress monitoring.
+- Hour registration.
+- Document management.
+- Self-evaluation.
+- User profile management.
 
-<img width="1194" height="791" alt="image" src="https://github.com/user-attachments/assets/1c61ac21-6cf5-4163-907c-d62fd46ea57d" />
+The design prioritizes visibility of system status and quick access to the most relevant information.
 
-<img width="952" height="791" alt="image" src="https://github.com/user-attachments/assets/61ba40f8-4653-46b2-8fc8-1c7e1e338645" />
+#### Login student
+<img width="367" height="776" alt="image" src="https://github.com/user-attachments/assets/bb1092ae-efe2-413c-aa9a-2534819d2614" />
 
-<img width="935" height="792" alt="image" src="https://github.com/user-attachments/assets/77fc7d07-7344-4f6f-b8fe-61d0c9b917de" />
+#### Recover password
+<img width="1102" height="754" alt="image" src="https://github.com/user-attachments/assets/4659c2f5-8d7c-47e6-8637-5f4cd5930793" />
 
-#### 2. Academic Coordinator
+#### Practical offers
+<img width="828" height="821" alt="image" src="https://github.com/user-attachments/assets/44b46127-5206-4015-85ef-77b4312539c4" />
 
-<img width="1116" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b349f6-4478-419e-9562-46a2acddbe6c" />
+#### My practices
+<img width="369" height="793" alt="image" src="https://github.com/user-attachments/assets/70bbbef5-9eae-41b2-b9d0-76e597e49039" />
 
-<img width="1135" height="789" alt="image" src="https://github.com/user-attachments/assets/cbcbd374-a1b9-4040-9a27-e32b0be78758" />
+#### My practice
+<img width="922" height="778" alt="image" src="https://github.com/user-attachments/assets/e0861049-2d08-4a10-b198-f1a2805dc81f" />
+
+#### Profile
+<img width="382" height="813" alt="image" src="https://github.com/user-attachments/assets/afab9b66-33a1-44d8-84fd-3186061ffaea" />
+
+#### Documents
+<img width="285" height="606" alt="image" src="https://github.com/user-attachments/assets/ce1cab6e-6072-426b-97f8-183e89d39ec9" />
+
+#### 1. Company
 
 
-#### 3. Supervisors
+## 6.4. Accessibility Considerations
 
-<img width="1404" height="740" alt="image" src="https://github.com/user-attachments/assets/3708296f-ce6a-46e4-872a-802387bca660" />
+Accessibility considerations were incorporated during the refinement phase of the project.
 
-<img width="1145" height="791" alt="image" src="https://github.com/user-attachments/assets/01d0a670-5a83-41f8-855f-880a5cd913b6" />
+Although accessibility was not the primary focus of the prototype, some measures were explored to improve usability across different visual conditions.
 
-<img width="1187" height="790" alt="image" src="https://github.com/user-attachments/assets/c6ecf640-3b59-48ad-954f-450b30912926" />
+### Accessibility Improvements Considered
 
-<img width="782" height="791" alt="image" src="https://github.com/user-attachments/assets/3cf18e45-c94e-46bc-8c60-2bbfee1fd56f" />
+#### Dark Mode Exploration
+
+A dark mode variation was explored for selected interfaces to evaluate readability and visual comfort under low-light conditions.
+
+This approach aimed to:
+
+- Reduce visual fatigue.
+- Improve contrast in dark environments.
+- Offer an alternative visual experience for users.
+
+Because the project focused primarily on validating functionality and workflows, dark mode was not implemented across every final screen.
+
+### Interface Readability
+
+The prototype also incorporates:
+
+- Clear typography hierarchy.
+- Consistent spacing between interface elements.
+- Large touch targets for mobile interaction.
+- Visual grouping of related information.
+
+These decisions contribute to improving readability and reducing cognitive load.
+
+### DARK MODE EXPLORATION
+<img width="644" height="672" alt="image" src="https://github.com/user-attachments/assets/970f2854-6813-47eb-af11-cbcfbd8c73f9" />
 
 
-#### 4. Login
-
-<img width="1082" height="792" alt="image" src="https://github.com/user-attachments/assets/36001c91-70c4-4ef8-a7e0-bb04277b6baf" />
-
-<img width="1403" height="764" alt="image" src="https://github.com/user-attachments/assets/6e850d73-81ac-45f2-b870-afbea7be5184" />
-
-<img width="1089" height="788" alt="image" src="https://github.com/user-attachments/assets/a359e876-140e-4f89-8575-469060f0b9d7" />
+---
 
 All high-fidelity frames can be found here: [Figma Design File](https://www.figma.com/design/uBHhHAYdy20HXp4pSSIV6f/InterTrack-UX?node-id=0-1&t=rjMESOzxybi2EGoh-1)
 
