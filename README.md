@@ -10,16 +10,14 @@ UX design repository for a centralized internship management platform, focusing 
    - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
    - [3.2. UIX Persona](#32-uix-persona)
    - [3.3. Benchmarking](#33-benchmarking)
-- [4. Scope](#4-scope)
-   - [4.1. Customer Journey Map](#41-customer-journey-map)
-- [5. Structure](#5-structure)
-   - [5.1. Navigation Flow](#51-navigation-flow)
-- [6. Skeleton](#6-skeleton)
-   - [6.1. Low-Fi Wireframes](#61-low-fi-wireframes)
-- [7. Surface](#7-surface)
-   - [7.1. Interface Evolution](#71-interface-evolution)
-   - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
-   - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+- [4. Structure](#4-structure)
+   - [4.1. Navigation Flow](#41-navigation-flow)
+- [5. Skeleton](#5-skeleton)
+   - [5.1. Low-Fi Wireframes](#51-low-fi-wireframes)
+- [6. Surface](#6-surface)
+   - [6.1. Interface Evolution](#61-interface-evolution)
+   - [6.2. Results of the Heuristic Evaluation](#62-results-of-the-heuristic-evaluation)
+   - [6.3. High Definition Interfaces](#63-high-definition-interfaces)
 
 
 ## 1. Introduction
@@ -235,7 +233,7 @@ High-Fidelity Improvements
 Reason for Changes
 Coordinators identified administrative overload as a major pain point. The redesign focuses on reducing manual tracking and providing a centralized management experience.
 
-### 7.2. Results of the Heuristic Evaluation
+### 6.2. Results of the Heuristic Evaluation
 
 Based on the heuristic evaluation conducted by our peers, we implemented key adjustments to improve usability and consistency. We focused on resolving the most critical and feasible issues identified during the review.  
 
@@ -248,7 +246,7 @@ Evaluators noted that several tabs were overloaded with information, buttons, im
 Consistency and Standardization
 We corrected minor visual inconsistencies across the application. This included standardizing button shapes and the top bar design, as well as clearly differentiating between buttons and tags. Furthermore, we adjusted the skill tags to prevent typing errors and maintain standard filtering.  
 
-### 7.3. High Definition Interfaces
+### 6.3. High Definition Interfaces
 
 #### 1. Intern (Student)
 
