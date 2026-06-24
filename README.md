@@ -464,7 +464,7 @@ The interactive demo can be accessed here: [Figma Prototype](https://www.figma.c
 
 ### 7.3. Elevator Pitch
 
-The Elevator Pitch can be found at this YouTube link and can also be found in the github docs folder.
+The Elevator Pitch can be found at this YouTube link.
 
 Watch the video here:
 https://www.youtube.com/shorts/D_JbCC8lOJ4
